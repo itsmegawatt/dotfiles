@@ -22,5 +22,7 @@ set expandtab
 set softtabstop=4
 set shiftwidth=4
 
+"Uses the solarized colorscheme for vim
+"Move the solarized.vim file into ~/.vim/colors/
 set background=dark
 colorscheme solarized
